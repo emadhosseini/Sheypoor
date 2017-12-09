@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+    <item
+        android:id="@+id/all_adv"
+        android:icon="@mipmap/all_adv"
+        android:title="همه آگهی ها">
+    </item>
+    <item
+        android:id="@+id/plus"
+        android:icon="@drawable/new_adv"
+        android:title="ثبت رایگان آگهی">
+    </item>
+    <item
+        android:id="@+id/my_adv"
+        android:icon="@mipmap/my_adv"
+        android:title="آگهی های من">
+    </item>
+    <item
+        android:id="@+id/best_adv"
+        android:icon="@mipmap/best_adv"
+        android:title="پسندیده ها">
+    </item>
+    <item
+        android:id="@+id/mychats"
+        android:icon="@mipmap/mychats"
+        android:title="لیست چت ها">
+    </item>
+    <item
+        android:id="@+id/notfication_adv"
+        android:icon="@mipmap/notfication_adv"
+        android:title="اعلانات">
+    </item>
+    <item
+        android:id="@+id/setting"
+        android:icon="@mipmap/setting"
+        android:title="تنظیمات حساب کاربری">
+    </item>
+    </group>
+    <group>
+        <item
+            android:id="@+id/rulers"
+            android:title="باید ها و نباید ها">
+        </item>
+        <item
+            android:id="@+id/support"
+            android:title="تماس با پشتیبانی"></item>
+        <item
+            android:id="@+id/share"
+            android:title="به اشتراک گذاری شیپور">
+
+        </item>
+    </group>
+</menu>
